@@ -6,6 +6,10 @@
 
 [Step2](./markdown/step2.md)
 
+[Step3](./markdown/step3.md)
+
+[Step4](./markdown/step4.md)
+
 ## 용어 사전
 
 | 한글명 | 영문명 | 설명 |
